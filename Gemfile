@@ -60,3 +60,7 @@ group :development do
   # gem "spring"
 end
 
+
+gem "tailwindcss-ruby", "~> 4.0"
+
+gem "tailwindcss-rails", "~> 4.2"
